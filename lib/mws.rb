@@ -14,6 +14,7 @@ require 'mws/recommendations'
 require 'mws/reports'
 require 'mws/sellers'
 require 'mws/subscriptions'
+require 'mws/easy_ship'
 
 # The various Amazon MWS API sections.
 module MWS
